@@ -1,0 +1,38 @@
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\bin\Debug\net6.0\Generics.exe
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\bin\Debug\net6.0\Generics.deps.json
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\bin\Debug\net6.0\Generics.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\bin\Debug\net6.0\Generics.pdb
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\bin\Debug\net6.0\Sharprompt.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\bin\Debug\net6.0\ja\Sharprompt.resources.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\obj\Debug\net6.0\Generics.csproj.CopyComplete
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\obj\Debug\net6.0\Generics.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\obj\Debug\net6.0\refint\Generics.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\obj\Debug\net6.0\Generics.pdb
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\obj\Debug\net6.0\ref\Generics.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics\Generics\bin\Debug\net6.0\BetterConsoleTables.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\obj\Debug\net6.0\Generics.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\obj\Debug\net6.0\refint\Generics.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\obj\Debug\net6.0\Generics.pdb
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\bin\Debug\net6.0\Generics.exe
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\bin\Debug\net6.0\Generics.deps.json
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\bin\Debug\net6.0\Generics.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\bin\Debug\net6.0\Generics.pdb
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\bin\Debug\net6.0\BetterConsoleTables.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\bin\Debug\net6.0\Sharprompt.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\bin\Debug\net6.0\ja\Sharprompt.resources.dll
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\obj\Debug\net6.0\Generics.csproj.CopyComplete
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+E:\Programação\Top Coders\Programação Orientada a Objetos II - Exercícios\Generics - Copy\Generics\obj\Debug\net6.0\ref\Generics.dll
